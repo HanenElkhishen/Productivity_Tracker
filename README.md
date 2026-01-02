@@ -1,4 +1,4 @@
-# 📊 2026 Productivity Tracker (Excel)
+# 2026 Productivity Tracker (Excel)
 
 A simple and visual Excel-based productivity tracker designed to help you stay consistent and mindful of your daily productivity throughout the entire year.
 
@@ -96,4 +96,4 @@ That’s it — no setup required.
 ## 🌱 Final Note
 
 Consistency matters more than perfection.  
-Even low-productivity days tell a story — keep showing up, and let the data guide your growth. 💙
+Even low-productivity days tell a story, keep showing up, and let the data guide your growth. 💙
